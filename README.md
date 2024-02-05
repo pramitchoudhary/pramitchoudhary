@@ -1,7 +1,7 @@
 ### Hi there, I am Pramit 👋
 I am a seasoned Applied Machine Learning Research Scientist/data scientist/Engineer leader.
 My expertise is in building Statistical/Machine Learning models(Bayesian and Frequentist Modeling techniques) to help the business realize its data journey. 
-Currently work for h2o.ai as the Lead Machine Learning Scientist/Engineer.
+Currently work for h2o.ai as the Lead Machine Learning Scientist/Engineer, focusing on the possibilities of generative AI one commit at a time.
 - I'm currently leading efforts on LLM2SQL assistant for QnA on structured data using SQL generation, https://github.com/h2oai/sql-sidekick
 - Fun project with LLMs for image generation, https://github.com/h2oai/wave-image-styling-playground
 - Responsible for Model Analyzer, a unified interactive framework for simulation (What-If scenarios) and adversarial robustness to continuously explore and evaluate predictive model's behavior and limitations.
