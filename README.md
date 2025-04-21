@@ -3,7 +3,8 @@ I am a seasoned Applied Machine Learning Research Scientist/data scientist/Engin
 My expertise is building statistical/machine learning models(Bayesian and Frequentist modeling techniques) to help businesses realize their data journey. 
 Exploring and figuring out possibilities of generative AI (LLMs) one commit at a time.
 
-- Currently, in stealth. Experimenting with building safe, personalized assistants for Intelligent Process Automation using LLMs.
+Oid Labs: https://www.oidlabs.com/
+- Currently, in stealth. Experimenting with building safe, personalized assistants for Intelligent Process Automation using LLMs for vertical tasks. 
 
 h2oai:
 - Led research and developed service to improve ways to evaluate LLM models with Automated QA generation (task-specific synthetic test generation using auto prompt optimization) and alignment optimization (LLM robustness).
