@@ -16,18 +16,31 @@ h2oai:
 https://docs.h2o.ai/wave-apps/h2o-autoinsights/get-started/what-is-h2o-autoinsights
 - Responsible for driving ML innovation/product and business strategies to improve the model interpretation ideas in h2o Driverless AI MLI.
 
-Prior to joining h2o.ai
+Before joining h2o.ai
 - Datascience.com (Lead AI Research Scientist), bought by Oracle
 - Led, researched, developed, and commercialized the need for Model Interpretation/Explanation for better model evaluation. Open-sourced our implementation for broader adoption of model explanation. [Skater](https://www.oreilly.com/content/interpreting-predictive-models-with-skater-unboxing-model-opacity/) https://youtu.be/dmXF7WxT63E. We were among the first to offer interpretation as an enterprise solution.
 - ...
+
+Engagements:
+I am not very good at keeping track of these forms of engagements, but trying to get better at it
+Links to a few engagements from the past,
+- https://oidlabs.com/blog/introducing-lexoid
+- https://medium.com/the-story-within/state-of-text-to-sql-dc3e3e4f8c64
+- SlideShare link: https://www.slideshare.net/pramitchoudhary
+- https://www.youtube.com/watch?v=Mc_KSibrRVc
+- https://opendatascience.com/model-evaluation-in-the-land-of-deep-learning/
+- Interviews: 
+  * https://youtu.be/H8P5Iv7-Zfc?si=vsH082Oz2jFXu6Mp
+  * https://youtu.be/z1eVHeUOypY?si=NtaJ0UQ4Jq6-Swpk
+  * https://www.youtube.com/watch?v=1e4d5ezBm0k
+- ...
+
 
 📫 How to reach me: pchoudha@uci.edu; pramit@oidlabs.com
 <!--
 **pramitchoudhary/pramitchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I'm currently leading efforts on LLM2SQL assistant for QnA on structured data using SQL generation.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
