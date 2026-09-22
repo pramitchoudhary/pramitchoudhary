@@ -29,6 +29,7 @@ Links to a few engagements from the past,
 - SlideShare link: https://www.slideshare.net/pramitchoudhary
 - https://www.youtube.com/watch?v=Mc_KSibrRVc
 - https://opendatascience.com/model-evaluation-in-the-land-of-deep-learning/
+- https://www.youtube.com/watch?v=fV9XFGN1BZ8
 - Interviews: 
   * https://youtu.be/H8P5Iv7-Zfc?si=vsH082Oz2jFXu6Mp
   * https://youtu.be/z1eVHeUOypY?si=NtaJ0UQ4Jq6-Swpk
