@@ -1,5 +1,5 @@
 ### Hi there, I am Pramit 👋
-I am a seasoned Applied Machine Learning Research Scientist/data scientist/Engineer leader with 17+ years of experience.
+I am a seasoned Machine Learning Research Scientist/data scientist/Engineer leader with 17+ years of experience.
 My expertise is building and innovating statistical/machine learning models (Bayesian and Frequentist modeling techniques) to help businesses advance their data journey. 
 Pushing the limits of how humans and AI reason through language—one commit at a time.
 
