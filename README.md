@@ -22,8 +22,8 @@ Before joining h2o.ai
 - ...
 
 Engagements:
-I am not very good at keeping track of these forms of engagements, but trying to get better at it
-Links to a few engagements from the past,
+I am not very good at keeping track of these forms of engagements, but trying to get better at it.
+Sharing links to a few engagements from the past,
 - Unpacking AI hype to reality with Kyle Polich: https://www.youtube.com/watch?v=x8ES6eHV43k
 - Lexoid: https://oidlabs.com/blog/introducing-lexoid
 - https://medium.com/the-story-within/state-of-text-to-sql-dc3e3e4f8c64
